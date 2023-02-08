@@ -1,0 +1,15 @@
+{
+  "name": "jsdoc-boilerplate",
+  "version": "1.0.0",
+  "description": "jsdoc 보일러플레이트 코드",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
